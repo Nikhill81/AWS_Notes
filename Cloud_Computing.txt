@@ -1,0 +1,32 @@
+# Types of cloud Service 
+
+1 IAAS
+2 PAAS
+3 SAAS
+
+1. Infrastructure as a service 
+
+in this we have Infrastructure soo uske baad jo kuch design karna hai wo hamko he karna hai chahe kuch bhi hoo
+
+for example hamko mall me icecream kii dukaan kholni hai to uske liye ham dukaan rent pe liye so hamko dukaan to mill gai abb joo kuch infra chiye wo ham he karenge
+
+2. Platform as a service (Paas)
+
+like hamko koi project deploy karna hai cloud me to hamko uske liye joo bhi chaiye woo Paas dega
+
+for example hamko icecream parlor kholna hai so wo hamko icecream kii machine table sab denge so hamko bass icecream ko bass dekhna hai
+
+
+3. Software as a service (SaaS)
+
+Provide you with a complete product that is run and managed by the service provider
+
+example : Wanding machine mujhe icecream bheni hai so jisko chiye woo paise dalega then usko mill jayegi no headach
+
+
+# Different types of cloud
+
+1 public cloud
+2 private cloud
+3 hybrid cloud
+

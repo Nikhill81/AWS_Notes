@@ -1,0 +1,24 @@
+# Hipervisor
+
+It is a software that creates and runs virtual machines (Vms)
+
+
+Use Case ->
+
+Like  Host OS -> hypervisor -> install window , Mac , Linux
+
+
+
+# Benefits of Vms
+
+1. We don't need new resources to use differnt OS
+2. No risk of any issues with your primary OS
+3. Tasting any app on different OS
+
+# Types of hypervisor
+
+Type2(Hosted) -> Ye woo hota hai joo ham apne os se install karte hai
+
+Type1 (Bare-metal)
+
+Hardware me rehta hai  Like Aws Azure
