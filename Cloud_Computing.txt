@@ -30,3 +30,22 @@ example : Wanding machine mujhe icecream bheni hai so jisko chiye woo paise dale
 2 private cloud
 3 hybrid cloud
 
+
+
+Public Cloud : A shared cloud environment where multipal users can access services over the internet like AWS or Azure
+
+Private Cloud: A dedicated cloud environment for one organizatiokn offering more control and privacy
+
+Hybrid Cloud: A mix of public and private clouds allowing data and applicatiokns to move between them for flexibility.
+
+
+Few Features offered by cloud providers
+
+Compute services
+storage services 
+database services 
+Newtworking services  
+Container services
+Machine Learning services
+Backup and disaster Recovery
+Api management
